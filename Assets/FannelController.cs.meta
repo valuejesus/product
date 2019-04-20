@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5a3e8cf7fe625af4493d46773a0b7c58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fannel: {instanceID: 0}
+  - fannel2: {instanceID: 0}
+  - fannel3: {instanceID: 0}
+  - fannel4: {instanceID: 0}
+  - fannel5: {instanceID: 0}
+  - flare: {fileID: 2479292246000501166, guid: a6e4cd0d24855554984845b0acae0d3c, type: 3}
+  - castController: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
